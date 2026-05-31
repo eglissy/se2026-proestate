@@ -48,6 +48,7 @@ se2026-proestate/
 │   ├── test-report.md
 │   ├── deployment.md
 │   ├── user-manual.md
+│   ├── github-issues-plan.md
 │   ├── sprint-1-review.md
 │   ├── sprint-1-retro.md
 │   ├── sprint-2-review.md
@@ -55,8 +56,28 @@ se2026-proestate/
 │   ├── sprint-3-review.md
 │   ├── sprint-3-retro.md
 │   ├── sprint-4-review.md
-│   └── sprint-4-retro.md
+│   ├── sprint-4-retro.md
+│   └── wireframes/
 ├── src/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── properties.php
+│   ├── property.php
+│   ├── agents.php
+│   ├── agent.php
+│   ├── contact.php
+│   ├── about.php
+│   ├── setup.php
+│   ├── config/
+│   ├── includes/
+│   ├── admin/
+│   ├── api/
+│   ├── dashboard/
+│   ├── database/
+│   ├── assets/
+│   ├── templates/
+│   └── uploads/
 ├── tests/
 └── .github/
     └── ISSUE_TEMPLATE/
