@@ -33,3 +33,20 @@ cache/
 node_modules/
 dist/
 build/
+
+
+
+
+# Environment / secrets
+.env
+.env.local
+src/.env
+src/.env.local
+
+# Runtime uploads
+src/uploads/properties/*
+src/uploads/documents/*
+src/uploads/avatars/*
+!src/uploads/properties/.gitkeep
+!src/uploads/documents/.gitkeep
+!src/uploads/avatars/.gitkeep
