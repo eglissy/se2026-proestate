@@ -79,6 +79,23 @@ Përdoret formati Conventional Commits:
 type(scope): description
 ```
 
+
+
+## Final Submission
+
+Ky repository përmban dorëzimin final të projektit ProEstate për lëndën Inxhinieri Softi.
+
+Përmbajtja kryesore:
+- Kodi burimor i aplikacionit ndodhet në `/src`.
+- Dokumentacioni i projektit ndodhet në `/docs`.
+- Menaxhimi i projektit është realizuar me GitHub Projects.
+- Detyrat janë ndarë në GitHub Issues dhe Milestones sipas 4 sprinteve.
+- Ndryshimet kryesore janë menaxhuar me Pull Requests.
+
+Linke kryesore:
+- Repository: https://github.com/eglissy/se2026-proestate
+- Project Board: https://github.com/users/eglissy/projects/2
+
 Shembuj:
 ```text
 feat(auth): add user registration form
