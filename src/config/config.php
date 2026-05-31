@@ -69,8 +69,8 @@ define('SITE_PHONE', '+355 69 123 4567');
 define('SITE_ADDRESS', 'Rruga e Kavajes, Tiranë, Shqipëri');
 
 define('PAYPAL_MODE', proesta_env('PAYPAL_MODE', 'sandbox'));
-define('PAYPAL_CLIENT_ID', proesta_env('PAYPAL_CLIENT_ID', 'ASzh8pYFpXiCV79dswBAdbUJ9wOVUQQDI3g4pcXe0ZNqhLX-eigj3BVTPtJ01xokhdJvcoI6iAn4gHWg'));
-define('PAYPAL_CLIENT_SECRET', proesta_env('PAYPAL_CLIENT_SECRET', 'EPsRsZfcvhMNP_k2lm7hdc7hRI4CaFwcWnPLFDgFrIlOaDbSOlvp77CA0l1pKuZikiQ4zd2JDOA3x6GR'));
+define('PAYPAL_CLIENT_ID', proesta_env('PAYPAL_CLIENT_ID', ''));
+define('PAYPAL_CLIENT_SECRET', proesta_env('PAYPAL_CLIENT_SECRET', ''));
 define('PAYPAL_CURRENCY', proesta_env('PAYPAL_CURRENCY', 'EUR'));
 define('PAYPAL_RESERVATION_FEE', 50.00);
 
