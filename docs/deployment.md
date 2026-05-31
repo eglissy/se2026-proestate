@@ -1,11 +1,21 @@
 # Deployment Guide — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Eglis Haderaj | Initial local deployment guide for ProEstate |
+
 ## 1. Kërkesat
 - PHP 8+
 - MySQL 8+
 - Apache ose Nginx
 - XAMPP/Laragon për zhvillim lokal
 - Git
+
+## Security Note
+
+File `.env` nuk duhet të ngarkohet në GitHub. Për konfigurim publik përdoret vetëm `.env.example`, ndërsa kredencialet reale vendosen lokalisht në mjedisin e zhvillimit.
 
 ## 2. Instalimi lokal
 
