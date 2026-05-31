@@ -3,6 +3,15 @@
 ## Përshkrimi
 ProEstate është një platformë web për menaxhimin e pronave të paluajtshme dhe qirave. Sistemi u mundëson agjentëve imobiliarë, pronarëve dhe klientëve të menaxhojnë prona, të kërkojnë prona me filtra, të rezervojnë takime dhe të komunikojnë në mënyrë më të strukturuar.
 
+## Project Management
+
+Menaxhimi i projektit është realizuar me GitHub Projects, Issues, Milestones dhe Pull Requests.
+
+- Repository: https://github.com/eglissy/se2026-proestate
+- Project Board: https://github.com/users/eglissy/projects/2
+- Dokumentacioni: `/docs`
+- Kodi burimor: `/src`
+
 ## Anëtarët e ekipit
 - Eglis Haderaj — Team Lead
 - Eriseld Memia — Developer / UI
