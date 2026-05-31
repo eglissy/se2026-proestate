@@ -1,5 +1,11 @@
 # Test Plan & Test Report — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Harilla Bica | Initial test report for core ProEstate functionalities |
+
 ## 1. Qëllimi
 Ky dokument përshkruan planin e testimit dhe rezultatet e testimit për sistemin ProEstate.
 
