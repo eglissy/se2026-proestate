@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#0c1421"/>
+  <!-- house shape, premium rendering -->
+  <path d="M16 5L3 14.5V28h9V20h8v8h9V14.5Z" fill="none" stroke="#c8921a" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M16 5L3 14.5V28h9V20h8v8h9V14.5Z" fill="#c8921a" opacity=".18"/>
+  <!-- door cutout -->
+  <rect x="13" y="20" width="6" height="8" rx="1" fill="#c8921a" opacity=".5"/>
+  <!-- roof line accent -->
+  <path d="M10 14.8L16 9.6l6 5.2" fill="none" stroke="#c8921a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
