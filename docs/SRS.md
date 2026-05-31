@@ -1,5 +1,12 @@
 # Software Requirements Specification — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Eglis Haderaj | Initial Software Requirements Specification for ProEstate |
+
+
 ## 1. Hyrje
 
 ### 1.1 Qëllimi i dokumentit
