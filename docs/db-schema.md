@@ -1,5 +1,11 @@
 # Database Schema — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Harilla Bica | Initial database schema documentation for ProEstate |
+
 ## users
 | Field | Type | Description |
 |---|---|---|
