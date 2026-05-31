@@ -1,5 +1,11 @@
 # User Manual — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Eglis Haderaj | Initial user manual for ProEstate platform |
+
 ## 1. Hyrje
 Ky manual shpjegon përdorimin bazë të platformës ProEstate.
 
