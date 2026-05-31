@@ -41,6 +41,10 @@ Menaxhimi i projektit është realizuar me GitHub Projects, Issues, Milestones d
 se2026-proestate/
 ├── README.md
 ├── .gitignore
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── feature.md
+│       └── bug.md
 ├── docs/
 │   ├── SRS.md
 │   ├── SDD.md
@@ -59,30 +63,76 @@ se2026-proestate/
 │   ├── sprint-4-retro.md
 │   └── wireframes/
 ├── src/
+│   ├── .env.example
+│   ├── .htaccess
+│   ├── README.md
+│   ├── about.php
 │   ├── index.php
 │   ├── login.php
+│   ├── logout.php
 │   ├── register.php
+│   ├── forgot-password.php
+│   ├── reset-password.php
+│   ├── verify-email.php
+│   ├── resend-verification.php
 │   ├── properties.php
 │   ├── property.php
 │   ├── agents.php
 │   ├── agent.php
 │   ├── contact.php
-│   ├── about.php
+│   ├── payment-success.php
 │   ├── setup.php
-│   ├── config/
-│   ├── includes/
 │   ├── admin/
+│   │   ├── index.php
+│   │   ├── login.php
+│   │   ├── properties.php
+│   │   └── users.php
 │   ├── api/
-│   ├── dashboard/
-│   ├── database/
+│   │   ├── admin-actions.php
+│   │   ├── chatbot.php
+│   │   ├── favorites.php
+│   │   ├── paypal-create-order.php
+│   │   ├── paypal-capture-order.php
+│   │   └── upload.php
 │   ├── assets/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   ├── js/
+│   │   │   └── main.js
+│   │   └── images/
+│   │       ├── default-avatar.svg
+│   │       ├── favicon.svg
+│   │       └── property-placeholder.svg
+│   ├── config/
+│   │   └── config.php
+│   ├── dashboard/
+│   │   ├── index.php
+│   │   ├── add-property.php
+│   │   ├── edit-property.php
+│   │   ├── my-properties.php
+│   │   ├── appointments.php
+│   │   ├── favorites.php
+│   │   ├── messages.php
+│   │   ├── payments.php
+│   │   ├── profile.php
+│   │   └── sidebar.php
+│   ├── database/
+│   │   └── proesta.sql
+│   ├── includes/
+│   │   ├── auth.php
+│   │   ├── db.php
+│   │   ├── email.php
+│   │   ├── functions.php
+│   │   └── security.php
 │   ├── templates/
+│   │   ├── header.php
+│   │   └── footer.php
 │   └── uploads/
-├── tests/
-└── .github/
-    └── ISSUE_TEMPLATE/
-        ├── feature.md
-        └── bug.md
+│       ├── .htaccess
+│       ├── avatars/
+│       ├── documents/
+│       └── properties/
+└── tests/
 ```
 
 ## Workflow
