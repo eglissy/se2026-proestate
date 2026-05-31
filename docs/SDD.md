@@ -1,5 +1,12 @@
 # Software Design Document — ProEstate
 
+## Revision History
+
+| Version | Date | Author | Description |
+|---|---|---|---|
+| 1.0 | 2026 | Eglis Haderaj | Initial Software Design Document for ProEstate |
+
+
 ## 1. Hyrje
 Ky dokument përshkruan konceptimin teknik dhe arkitekturor të sistemit ProEstate. Qëllimi është të sqarohet si do të ndërtohet sistemi, si ndahen modulet, si menaxhohen të dhënat dhe si sigurohet sistemi.
 
